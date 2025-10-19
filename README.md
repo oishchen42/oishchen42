@@ -1,9 +1,10 @@
 # 💫 About Me:
-I'm currnetly studing in the best programming school 42.<br>I'm looking at any Blockchain related projects (web3 specificly)<br>I'm currently learning Docker and Kubernetes<br>Ask me about C language<br>Fun fact: I'm planning to create a IG channel related to programming
+I'm currnetly studing in the best programming school 42.<br>I'm looking at any Blockchain related projects (web3 specificly)<br>I'm currently learning Docker and Kubernetes<br>Ask me about C language<br>I'm passionate about Machine Learning, Deep learning, Retrieval-Augmented Generation<br>
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:optionalziraelleariz@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:optionalziraelleariz@gmail.com)
+![LinkedIn](https://www.linkedin.com/in/oleksii-ishchenko-990a93373/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
