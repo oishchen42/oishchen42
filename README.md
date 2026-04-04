@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **RAGs, ML, Python, TS, Go**
 
-- 📫 How to reach me **alex.di.master@proton.me**
+- 📫 How to reach me [**LinkedIn**](https://www.linkedin.com/in/oishchen42/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
